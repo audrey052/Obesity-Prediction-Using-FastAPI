@@ -1,0 +1,1 @@
+This project provides a machine learning model deployed using FastAPI to predict obesity levels based on user information and lifestyle habits. The model was trained in a Jupyter Notebook and exported as a pipeline for API inference.
